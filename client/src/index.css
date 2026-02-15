@@ -1,0 +1,114 @@
+@import "tailwindcss";
+
+@variant dark (&:where(.dark, .dark *));
+
+@layer base {
+
+  /* Background Images - Using correct high-quality files */
+  body {
+    @apply bg-slate-50 text-slate-900 font-sans antialiased;
+    /* Day Mode */
+    background-image: url('/background_day.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    transition: background-image 0.5s ease-in-out;
+  }
+
+  html.dark body {
+    @apply text-slate-50;
+    /* Night Mode */
+    background-color: #0B1120;
+    /* Subtle overlay for readability, significantly lighter than before */
+    background-image: linear-gradient(rgba(11, 17, 32, 0.4), rgba(11, 17, 32, 0.4)), url('/background_night.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+
+  /* RTL Support */
+  [dir="rtl"] {
+    text-align: right;
+  }
+
+  [dir="rtl"] .ml-auto {
+    margin-right: auto;
+    margin-left: initial;
+  }
+
+  [dir="rtl"] .mr-auto {
+    margin-left: auto;
+    margin-right: initial;
+  }
+}
+
+/* Indic Script Font Support - Prioritize Unicode fonts for each script */
+:root {
+  --font-indic: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+[lang="hi"],
+[lang="mr"],
+[lang="gu"],
+[lang="pa"] {
+  font-family: 'Noto Sans Devanagari', 'Inter', sans-serif;
+}
+
+[lang="bn"],
+[lang="as"] {
+  font-family: 'Noto Sans Bengali', 'Inter', sans-serif;
+}
+
+[lang="te"],
+[lang="kn"] {
+  font-family: 'Noto Sans Telugu', 'Noto Sans Kannada', 'Inter', sans-serif;
+}
+
+[lang="ta"] {
+  font-family: 'Noto Sans Tamil', 'Inter', sans-serif;
+}
+
+[lang="ml"] {
+  font-family: 'Noto Sans Malayalam', 'Inter', sans-serif;
+}
+
+[lang="ur"] {
+  font-family: 'Noto Nastaliq Urdu', 'Noto Sans Arabic', 'Inter', sans-serif;
+  line-height: 2;
+  /* Urdu Nastaliq usually needs more line height */
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 4px;
+}
+
+.flip-rtl {
+  transform: scaleX(-1);
+}
+
+[dir="rtl"] .flip-rtl {
+  transform: scaleX(1);
+}
+
+[dir="ltr"] .flip-rtl {
+  transform: scaleX(-1);
+}
