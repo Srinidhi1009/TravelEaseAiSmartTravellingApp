@@ -1,7 +1,3 @@
-Below is a **clean, professional README.md** version (no emojis or icons), with **you as the author** and a **screenshots section** ready for GitHub. You only need to place images in a `screenshots` folder in your repo.
-
----
-
 # TravelEase AI – Smart Travelling App
 
 TravelEase AI is a modern AI-powered travel planning and booking platform designed to help users plan, manage, and book their trips efficiently. The application integrates AI-based trip planning, intelligent chat assistance, real-time cost estimation, and booking systems in a responsive interface built with modern web technologies.
@@ -64,6 +60,38 @@ The interface uses modern design principles including glassmorphism, animated UI
 ---
 
 # Key Features
+Add the following **professional sections** to the bottom of your `README.md`. Since you wanted a **professional style**, I removed emojis and formatted it cleanly.
+
+---
+
+## Designed for Indian Travelers
+
+TravelEase AI is designed with a focus on travelers across India.
+The platform aims to make trip planning simpler, faster, and smarter by integrating intelligent planning tools, localized language support, and a streamlined booking experience.
+
+Travel smarter. Travel easier. Travel with AI.
+
+---
+
+## Supported Languages
+
+The application supports multiple Indian languages to make travel planning accessible to a wider audience.
+
+* English
+* Hindi
+* Tamil
+* Telugu
+* Bengali
+* Marathi
+* Gujarati
+* Kannada
+* Malayalam
+* Punjabi
+* Odia
+* Assamese
+* Urdu
+
+All user interface text is dynamically translated while ensuring that **numerical values such as prices, dates, and counts remain unchanged**.
 
 ## AI Trip Planner
 
@@ -423,16 +451,11 @@ Potential future improvements include:
 This project is licensed under the MIT License.
 
 ---
+## Author
 
-# Author
+**Srinidhi**
 
-M Srinidhi
+GitHub:
+[https://github.com/Srinidhi1009](https://github.com/Srinidhi1009)
 
 ---
-
-If you want, I can also help you create **a very professional GitHub README with:**
-
-* project badges (build, license, tech stack)
-* architecture diagram
-* animated GIF demos of the UI
-* a better screenshot layout used by top GitHub projects.
