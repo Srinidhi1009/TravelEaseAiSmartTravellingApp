@@ -30,9 +30,9 @@ The interface uses modern design principles including glassmorphism, animated UI
 ![Homepage](https://github.com/Srinidhi1009/TravelEaseAiSmartTravellingApp/blob/799af44e30771c08584a2fd1f850f84c28133ed4/Screenshot%202026-03-02%20095138.png)
 ![Homepage]()
 
-### AI Trip Planner
+### Login Page
 
-![AI Planner](screenshots/ai-planner.png)
+![Login Page](screenshots/ai-planner.png)
 
 ### Travel Buddy Chatbot
 
@@ -58,9 +58,8 @@ The interface uses modern design principles including glassmorphism, animated UI
 
 ![Analytics](https://github.com/Srinidhi1009/TravelEaseAiSmartTravellingApp/blob/df2b373f140f76d50cf0b2f3ad3a6752b3c28adb/Screenshot%202026-03-02%20095320.png)
 
-### Payment Interface
-
-![Payment](screenshots/payment.png)
+### Feedback
+![Feedback](https://github.com/Srinidhi1009/TravelEaseAiSmartTravellingApp/blob/8de2c9d3c883f081fad716c95a8eb9c13f7a5910/Screenshot%202026-03-02%20095521.png)
 
 ---
 
