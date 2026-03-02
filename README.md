@@ -27,8 +27,9 @@ The interface uses modern design principles including glassmorphism, animated UI
 
 ### Homepage
 
+![Homepage](https://github.com/Srinidhi1009/TravelEaseAiSmartTravellingApp/blob/f1868abeafda61c0b8212a5f3dc7d553407c53d6/Screenshot%202026-03-02%20095541.png)
+
 ![Homepage](https://github.com/Srinidhi1009/TravelEaseAiSmartTravellingApp/blob/799af44e30771c08584a2fd1f850f84c28133ed4/Screenshot%202026-03-02%20095138.png)
-![Homepage]()
 
 ### Login Page
 
