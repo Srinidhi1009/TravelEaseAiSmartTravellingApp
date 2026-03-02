@@ -33,7 +33,7 @@ The interface uses modern design principles including glassmorphism, animated UI
 
 ### Login Page
 
-![Login Page](screenshots/ai-planner.png)
+![Login Page](https://github.com/Srinidhi1009/TravelEaseAiSmartTravellingApp/blob/462570319b21846ef646bd36ebb0b3a9f94ba854/Screenshot%202026-03-02%20095656.png)
 
 ### Flight Booking System
 
