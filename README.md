@@ -56,7 +56,7 @@ The interface uses modern design principles including glassmorphism, animated UI
 
 ### Trip Analytics
 
-![Analytics](screenshots/analytics.png)
+![Analytics](https://github.com/Srinidhi1009/TravelEaseAiSmartTravellingApp/blob/df2b373f140f76d50cf0b2f3ad3a6752b3c28adb/Screenshot%202026-03-02%20095320.png)
 
 ### Payment Interface
 
