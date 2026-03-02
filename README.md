@@ -52,7 +52,7 @@ The interface uses modern design principles including glassmorphism, animated UI
 
 ### Smart Trip Predictions
 
-![Smart Trip Predictions](https://github.com/Srinidhi1009/TravelEaseAiSmartTravellingApp/blob/4acb1f16bb4a9d8e22f8b2218e05d21db51a4e73/Screenshot%202026-03-02%20095241.png)
+![Smart Trip Predictions](https://github.com/Srinidhi1009/TravelEaseAiSmartTravellingApp/blob/8c73dfb9d6d17e80ce1f1031c26baf816c8faa25/Screenshot%202026-03-02%20095332.png)
 
 ### Trip Analytics
 
