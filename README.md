@@ -50,6 +50,10 @@ The interface uses modern design principles including glassmorphism, animated UI
 
 ![Dashboard](https://github.com/Srinidhi1009/TravelEaseAiSmartTravellingApp/blob/5b866357b804e68b975df55fa4b7d8a5b133113d/Screenshot%202026-03-02%20095227.png)
 
+### Smart Trip Predictions
+
+![Smart Trip Predictions]()
+
 ### Trip Analytics
 
 ![Analytics](screenshots/analytics.png)
