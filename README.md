@@ -44,7 +44,7 @@ The interface uses modern design principles including glassmorphism, animated UI
 
 ### Hotel Booking System
 
-![Hotels](screenshots/hotels.png)
+![Hotels](https://github.com/Srinidhi1009/TravelEaseAiSmartTravellingApp/blob/ac00e8934292f350eba9b0a2aed1964b5a06e8a1/Screenshot%202026-03-02%20095213.png)
 
 ### User Dashboard
 
