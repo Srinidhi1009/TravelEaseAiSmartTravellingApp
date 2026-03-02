@@ -34,10 +34,6 @@ The interface uses modern design principles including glassmorphism, animated UI
 
 ![Login Page](screenshots/ai-planner.png)
 
-### Travel Buddy Chatbot
-
-![Chatbot](screenshots/chatbot.png)
-
 ### Flight Booking System
 
 ![Flights](https://github.com/Srinidhi1009/TravelEaseAiSmartTravellingApp/blob/92165a04aff63944948adc99bac2ac7be3091b47/Screenshot%202026-03-02%20095157.png)
@@ -49,6 +45,10 @@ The interface uses modern design principles including glassmorphism, animated UI
 ### My Bookings
 
 ![Dashboard](https://github.com/Srinidhi1009/TravelEaseAiSmartTravellingApp/blob/5b866357b804e68b975df55fa4b7d8a5b133113d/Screenshot%202026-03-02%20095227.png)
+
+### Travel Buddy Chatbot
+
+![Chatbot](https://github.com/Srinidhi1009/TravelEaseAiSmartTravellingApp/blob/001fe78c4fafe1301980fdd9d7f104e100adc5a2/Screenshot%202026-03-02%20095815.png)
 
 ### Smart Trip Predictions
 
