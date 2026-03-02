@@ -363,28 +363,68 @@ TravelEase
 
 ## Clone the Repository
 
+To get a local copy of the project, clone the repository using Git.
+
+```bash
+git clone https://github.com/Srinidhi1009/TravelEaseAiSmartTravellingApp.git
 ```
-git clone https://github.com/yourusername/travelease-ai.git
-cd travelease-ai
+
+Move into the project directory:
+
+```bash
+cd TravelEaseAiSmartTravellingApp
 ```
 
 ---
 
-## Install Frontend Dependencies
+## Install Dependencies
 
-```
+Install the required dependencies for both the frontend and backend.
+
+### Frontend Setup
+
+```bash
 cd client
 npm install
 ```
 
----
+### Backend Setup
 
-## Install Backend Dependencies
-
-```
+```bash
 cd server
 npm install
 ```
+
+---
+
+## Run the Application
+
+Start the backend server:
+
+```bash
+cd server
+npm run dev
+```
+
+Start the frontend development server:
+
+```bash
+cd client
+npm run dev
+```
+
+The application will run locally on:
+
+```
+http://localhost:5173
+```
+
+---
+
+## Repository Link
+
+Project Repository:
+[https://github.com/Srinidhi1009/TravelEaseAiSmartTravellingApp](https://github.com/Srinidhi1009/TravelEaseAiSmartTravellingApp)
 
 ---
 
