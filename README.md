@@ -46,9 +46,9 @@ The interface uses modern design principles including glassmorphism, animated UI
 
 ![Hotels](https://github.com/Srinidhi1009/TravelEaseAiSmartTravellingApp/blob/ac00e8934292f350eba9b0a2aed1964b5a06e8a1/Screenshot%202026-03-02%20095213.png)
 
-### User Dashboard
+### My Bookings
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/Srinidhi1009/TravelEaseAiSmartTravellingApp/blob/5b866357b804e68b975df55fa4b7d8a5b133113d/Screenshot%202026-03-02%20095227.png)
 
 ### Trip Analytics
 
