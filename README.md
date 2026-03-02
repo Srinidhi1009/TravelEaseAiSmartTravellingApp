@@ -35,6 +35,10 @@ The interface uses modern design principles including glassmorphism, animated UI
 
 ![Login Page](https://github.com/Srinidhi1009/TravelEaseAiSmartTravellingApp/blob/462570319b21846ef646bd36ebb0b3a9f94ba854/Screenshot%202026-03-02%20095656.png)
 
+### MultiLanguage System
+
+![Multi Language](https://github.com/Srinidhi1009/TravelEaseAiSmartTravellingApp/blob/0e6b02f245958d0f7d6c56ed58486e7b65eb733c/Screenshot%202026-03-02%20095631.png)
+
 ### Flight Booking System
 
 ![Flights](https://github.com/Srinidhi1009/TravelEaseAiSmartTravellingApp/blob/92165a04aff63944948adc99bac2ac7be3091b47/Screenshot%202026-03-02%20095157.png)
