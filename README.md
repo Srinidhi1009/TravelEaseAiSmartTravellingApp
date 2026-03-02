@@ -40,7 +40,7 @@ The interface uses modern design principles including glassmorphism, animated UI
 
 ### Flight Booking System
 
-![Flights](screenshots/flights.png)
+![Flights](https://github.com/Srinidhi1009/TravelEaseAiSmartTravellingApp/blob/92165a04aff63944948adc99bac2ac7be3091b47/Screenshot%202026-03-02%20095157.png)
 
 ### Hotel Booking System
 
