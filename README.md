@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/25928627/README.md)
 # TravelEase AI – Smart Travelling App
 
 TravelEase AI is a modern AI-powered travel planning and booking platform designed to help users plan, manage, and book their trips efficiently. The application integrates AI-based trip planning, intelligent chat assistance, real-time cost estimation, and booking systems in a responsive interface built with modern web technologies.
